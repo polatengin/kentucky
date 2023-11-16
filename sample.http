@@ -23,5 +23,13 @@ Content-Type: application/json
   "query": "I live in Istanbul Turkey, and I want to uplift my nose. Where should I go?"
 }
 
+###
+
+POST http://localhost:5197
+Content-Type: application/json
+
+{
+  "query": "I live in Antalya Turkey, and I need hair transplant. Which medical center is closest to me?"
+}
 
 ###
